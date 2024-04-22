@@ -30,6 +30,7 @@ $pip install futures
 $pip install mechanize
 
 $pip install colorama
+
 $pip install tqdm
 
 $pip install rich
@@ -40,6 +41,6 @@ untuk mengupdate pip kalian bisa ketik 'pip install --upgrade pip'
 # GARIS BESAR:V
 tanda '$' tdk perlu di ketik pas masukin perintah
 
-lalu jangan lupa perintah peningkatan installan 'pkg update && pkg upgrade -y'
+lalu jangan lupa perintah peningkatan installan  'pkg update && pkg upgrade -y'
 
 yg terakhir untuk memberi termux akses ke penyimpanan perangkat kalian ketik perintah 'termux-setup-storage'
